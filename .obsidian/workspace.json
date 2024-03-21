@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second page.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second page.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second page.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second page.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "8b091fc80170c69e",
   "lastOpenFiles": [
+    "content/Second page.md",
     "README.md",
-    "Second page.md",
+    "Untitled 1",
+    "content",
     "attachments/chris-lawton-5IHz5WhosQE-unsplash.jpg",
     "attachments"
   ]

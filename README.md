@@ -2,6 +2,7 @@
 
 I am a Fellow researcher at CNR-ILC [https://orcid.org/0000-0001-5279-797X](https://orcid.org/0000-0001-5279-797X)
 
+Check out my second page for more information on other things like [work](obsidian://open?vault=professional-activities&file=Second%20page): obsidian://open?vault=professional-activities&file=Second%20page    
 The aim is to list my activities & outputs on this webpage.
 ![](attachments/chris-lawton-5IHz5WhosQE-unsplash.jpg)
 
